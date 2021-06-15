@@ -89,4 +89,4 @@ function mouseDragged() {
 
 function mouseReleased() {
   sling.fly();
-} 
+}
